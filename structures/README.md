@@ -1,10 +1,9 @@
 HYGEIA — Nurturing the Breakthrough
 
-An Interpretable Deep Learning and Multi-Objective Pipeline for De Novo
-Antimicrobial Peptide Design targeting *Klebsiella pneumoniae*
+A Multi-Objective Pareto Optimization and Normal Mode Eigenvalue Framework as an Interpretable Deep Learning Pipeline for Multi-drug Resistant Klebsiella pneumoniae Antimicrobial Peptide Synthesis
 
 Saravel Bless Y. Alivio · Princess Fely T. Cuering · Lianne Brylle L. Oros
-Davao City National High School — DepEd Division Science & Technology Fair 2026
+Davao City National High School
 
 ---
 
