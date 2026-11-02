@@ -1,0 +1,19 @@
+# Streamlit's own widget chrome, matched to the bold palette in hygeia_theme.py.
+#
+# base = "light" is pinned deliberately: the chart palette was validated for
+# contrast and colour-vision deficiency against a light surface, and letting a
+# visitor's operating system force dark mode would invalidate that work.
+
+[theme]
+base = "light"
+primaryColor = "#C2185B"              # crimson — buttons, sliders, focus rings
+backgroundColor = "#FFFFFF"           # the page is a white sheet
+secondaryBackgroundColor = "#FDF5F8"  # sidebar and widget wells
+textColor = "#241018"                 # near-black plum
+font = "sans serif"
+
+[server]
+maxUploadSize = 50                    # iMODS exports and docked PDB complexes
+
+[browser]
+gatherUsageStats = false
